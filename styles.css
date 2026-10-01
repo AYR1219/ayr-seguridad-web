@@ -52,5 +52,5 @@
 }
 
 .contact-links .fa-instagram{
-  color:#fff;
+  color:var(--red);
 }
