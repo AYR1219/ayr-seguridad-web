@@ -20,21 +20,23 @@
   font-size:11px;
   text-transform:uppercase;
   letter-spacing:1px;
-  min-width:70px;
+  min-width:90px;
 }
 
-.contact-row > div{
+.contact-numbers{
   display:flex;
-  gap:30px;
+  align-items:center;
+  gap:18px;
 }
 
-.contact-row a{
+.contact-numbers a{
   font-size:14px;
 }
 
-.contact-row a:hover{
+.contact-numbers a:hover{
   color:var(--red);
 }
+
 .separator{
   color:var(--muted);
   font-size:14px;
